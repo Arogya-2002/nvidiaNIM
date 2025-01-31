@@ -1,0 +1,1 @@
+## Creating a GENAI using NVIDIA NIM
